@@ -11,5 +11,7 @@ To run this project, we have to create the following files in a directory and ru
 #Commands
 
 cd < directory_path> 
+
 gcc main.c user.c request.c helpers.c application.c -o main ---> It is used to compile. 
+
 ./main ---> It is used to execute the executable file i.e., main.exe
