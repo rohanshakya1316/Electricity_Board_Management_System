@@ -6,6 +6,8 @@ Operator will take user details and also take request details from user.
 Operator can add user, add request, view any user and request made by him, edit request and view request. Functions have been made in seperate files to keep project organized and readable. This project implements important features of C like I/O stuffs, loops, branching, pointers, structures, memory management and functions. 
 
 To run this project, we have to create the following files in a directory and run following command. 
+
+
 #Commands
 cd < directory_path> 
 gcc main.c user.c request.c helpers.c application.c -o main ---> It is used to compile. 
